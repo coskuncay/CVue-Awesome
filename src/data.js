@@ -53,7 +53,7 @@ const contactInfo = [
 ]
 
 const summaryInfo = 
-    'Hello, It\'s Emre from Ankara,Turkey.I have +2 years of experience with Vue.JS, .NET Core, Docker, Kubernetes with a focus on RestAPIs, MVC and micro-services.My priority is to improve reusability and write generic code. In my social life, I am a backpacker.I have visited 22 countries and I am excitedly waiting for this number to increase. In addition, I enjoy talking about new startup ideas.'
+    'Hello, It\'s Emre from Ankara,Turkey.I have +2 years of experience with Vue.JS, .NET Core, Docker, Kubernetes with a focus on RestAPIs, MVC and micro-services.My priority is to improve reusability and write generic code. In my social life, I\'m a backpacker.I have visited 22 countries and I am excitedly waiting for this number to increase. In addition, I enjoy talking about new startup ideas.'
 
 
 //desc v-html 
@@ -62,7 +62,7 @@ const experinceInfo = [
         workAt: 'Aselsan',
         position: 'Software Engineer',
         duration: 'Dec 2019 – Present',
-        description: 'Work as a full stack software engineer at Smart City System in Turkey.We are developing a system with millions of instantaneous real data. I am primarily developing front-end side.',
+        description: 'Work as a full stack software engineer.',
         techs: ["Vue.JS", ".NET Core", "Docker", "Kubernetes", "PostgreSQL"]
     },
     {
@@ -146,7 +146,7 @@ const volunteerInfo = [
     },
     {
         organisation: 'Hacettepe University ACM',
-        title: 'Active Member',
+        title: 'Member',
         duration: '2015 – 2020',
         description: '',
     }

@@ -1,4 +1,4 @@
-# cvue-awesome
+# CVue-Awesome
 
 [![Netlify Status](https://api.netlify.com/api/v1/badges/9b956c21-a367-4dfc-92b0-7bd7b9a6e1b4/deploy-status)](https://app.netlify.com/sites/emrec/deploys)
 
@@ -12,15 +12,9 @@ npm install
 npm run serve
 ```
 
-### Compiles and minifies for production
-```
-npm run build
-```
+# ToDo List
 
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+- [ ] Dark Theme Support
+- [ ] Language Support
+- [ ] Different Theme 
+- [ ] Get Data from Linkedin, PDF etc.
