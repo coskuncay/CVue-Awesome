@@ -322,8 +322,7 @@ li.timeline-item::before {
 }
 
 .tech-list-item {
-    display: inline-block;
-    margin-bottom: 10px;
+    display: inline-block; 
 }
 
 .tech-list-item:not(:last-child) {
@@ -336,7 +335,6 @@ li.timeline-item::before {
 }
 
 .right-list-item {
-    margin-bottom: 10px;
     font-size: .95rem;
 }
 
